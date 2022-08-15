@@ -41,3 +41,19 @@ Key Concepts of MicroServices:
 
 * Modeled around Business Domain: 
      
+     <img width="492" alt="Screenshot 2022-08-15 at 5 24 34 PM" src="https://user-images.githubusercontent.com/65025980/184634575-2dbd53fb-ecb2-4a3e-99ea-d6047c8a47ac.png">
+     
+Separating the business model will allow to make things easier, the domain of every business will be different so making change in one business domain will not effect the other.
+
+* Owning their own State: Every Microservice should have their own state like if one service want to access the data from the other service it will require permissions from other service to allow access to the data, also it will keep the Object Oriented encapsulation principle alive of data hiding principle.
+
+Three C's of Microservices:
+---
+
+
+Monolithic:
+---
+<img width="485" alt="Screenshot 2022-08-15 at 7 40 57 PM" src="https://user-images.githubusercontent.com/65025980/184656629-76ad33ce-17ef-4733-b4b7-762772271df0.png">
+
+
+     
