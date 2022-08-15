@@ -19,11 +19,7 @@ Eric Evans, introduced the concept in 2004, in his book Domain-Driven Design: Ta
      <img width="697" alt="Screenshot 2022-08-15 at 3 40 58 PM" src="https://user-images.githubusercontent.com/65025980/184621471-9108ad1e-40a6-4090-8143-84676e603d0d.png">
  Advantages of Domain-Driven Design
  ---
-* Simpler communication. Thanks to the Ubiquitous Language, communication between developers and teams becomes much easier. As the ubiquitous language is likely to contain simpler terms developers refer to, there’s no need for complicated technical terms.
-
-* More flexibility. As DDD is object-oriented, everything about the domain is based on and object is modular and caged. Thanks to this, the entire system can be modified and improved regularly.
-
-* The domain is more important than UI/UX. As the domain is the central concept, developers will build applications suited for the particular domain. This won’t be another interface-focused application. Although you shouldn’t leave out UX, using the DDD approach means that the product targets exactly the users that are directly connected to the domain.
+Visit following link for more details:
 
 Reference from : https://medium.com/microtica/the-concept-of-domain-driven-design-explained-3184c0fd7c3f
      
