@@ -26,3 +26,18 @@ Reference from : https://medium.com/microtica/the-concept-of-domain-driven-desig
 Writtern by : Sara Miteva 
      
 https://saramiteva.medium.com/
+
+Microservices are considered to be service oriented architecture. From outside a single microservice is considered to be black box.
+     
+Microservices embraces the concept of data hiding. This help in maintaining the services based on different domain and the changes in them doesn't effect the other service.
+     
+SOA vs MicroServices
+---
+SOA is a design pattern in which multiple services combine to perform a certain tasks through different availble endpoints. The SOA emphasizes on reusing the code for different problems. 
+
+Key Concepts of MicroServices:
+---
+* Independent Deployability: This allow application to be loosely coupled and one application will be deployed without changing anything in the other service.
+
+* Modeled around Business Domain: 
+     
