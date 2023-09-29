@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f98e778f-6327-4de7-a32b-d1e9124d56db" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/centerapp/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/cinema-service/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/centerapp/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/cinema-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/centerapp/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/cinema-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/centerapp/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/cinema-service/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/centerapp/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/cinema-service/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/centerapp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/centerapp/src/main/java/com/example/centerapp/CenterappApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-server/src/main/java/com/example/centerapp/CenterappApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/centerapp/src/main/java/com/example/centerapp/controller/CenterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-server/src/main/java/com/example/centerapp/controller/CenterController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/centerapp/src/main/java/com/example/centerapp/dto/BookingDetailsDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-server/src/main/java/com/example/centerapp/dto/BookingDetailsDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/centerapp/src/main/java/com/example/centerapp/dto/CategoryDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-server/src/main/java/com/example/centerapp/dto/CategoryDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/centerapp/src/main/java/com/example/centerapp/dto/CustomerDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-server/src/main/java/com/example/centerapp/dto/CustomerDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/centerapp/src/main/java/com/example/centerapp/dto/ErrorDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-server/src/main/java/com/example/centerapp/dto/ErrorDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/centerapp/src/main/java/com/example/centerapp/dto/FoodDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-server/src/main/java/com/example/centerapp/dto/FoodDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/centerapp/src/main/java/com/example/centerapp/dto/MovieDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-server/src/main/java/com/example/centerapp/dto/MovieDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/centerapp/src/main/java/com/example/centerapp/exceptions/CustomerNotFound.java" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-server/src/main/java/com/example/centerapp/exceptions/CustomerNotFound.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/centerapp/src/main/java/com/example/centerapp/exceptions/GlobalExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-server/src/main/java/com/example/centerapp/exceptions/GlobalExceptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/centerapp/src/main/java/com/example/centerapp/exceptions/MovieNotFound.java" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-server/src/main/java/com/example/centerapp/exceptions/MovieNotFound.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/centerapp/src/main/java/com/example/centerapp/exceptions/ServiceException.java" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-server/src/main/java/com/example/centerapp/exceptions/ServiceException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/centerapp/src/main/java/com/example/centerapp/feign/BookingClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-server/src/main/java/com/example/centerapp/feign/BookingClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/centerapp/src/main/java/com/example/centerapp/feign/Fallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-server/src/main/java/com/example/centerapp/feign/Fallback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/centerapp/src/main/java/com/example/centerapp/modal/BookingDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-server/src/main/java/com/example/centerapp/modal/BookingDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/centerapp/src/main/java/com/example/centerapp/modal/CategoryDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-server/src/main/java/com/example/centerapp/modal/CategoryDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/centerapp/src/main/java/com/example/centerapp/modal/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-server/src/main/java/com/example/centerapp/modal/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/centerapp/src/main/java/com/example/centerapp/modal/FoodDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-server/src/main/java/com/example/centerapp/modal/FoodDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/centerapp/src/main/java/com/example/centerapp/modal/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-server/src/main/java/com/example/centerapp/modal/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/centerapp/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-server/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/centerapp/src/test/java/com/example/centerapp/CenterappApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-server/src/test/java/com/example/centerapp/CenterappApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinemaapp/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-server/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinemaapp/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinemaapp/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinemaapp/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-server/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinemaapp/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-server/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinemaapp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cinema-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinemaapp/src/main/java/com/example/cinemaapp/CinemaappApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/cinema-service/src/main/java/com/example/cinemaapp/CinemaappApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinemaapp/src/main/java/com/example/cinemaapp/constant/ErrorCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/cinema-service/src/main/java/com/example/cinemaapp/constant/ErrorCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinemaapp/src/main/java/com/example/cinemaapp/controller/CinemaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cinema-service/src/main/java/com/example/cinemaapp/controller/CinemaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinemaapp/src/main/java/com/example/cinemaapp/dto/BookingDetailsDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/cinema-service/src/main/java/com/example/cinemaapp/dto/BookingDetailsDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinemaapp/src/main/java/com/example/cinemaapp/dto/CategoryDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/cinema-service/src/main/java/com/example/cinemaapp/dto/CategoryDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinemaapp/src/main/java/com/example/cinemaapp/dto/CustomerDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/cinema-service/src/main/java/com/example/cinemaapp/dto/CustomerDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinemaapp/src/main/java/com/example/cinemaapp/dto/ErrorDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/cinema-service/src/main/java/com/example/cinemaapp/dto/ErrorDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinemaapp/src/main/java/com/example/cinemaapp/dto/FoodDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/cinema-service/src/main/java/com/example/cinemaapp/dto/FoodDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinemaapp/src/main/java/com/example/cinemaapp/dto/MovieDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/cinema-service/src/main/java/com/example/cinemaapp/dto/MovieDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinemaapp/src/main/java/com/example/cinemaapp/exception/CustomerNotFound.java" beforeDir="false" afterPath="$PROJECT_DIR$/cinema-service/src/main/java/com/example/cinemaapp/exception/CustomerNotFound.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinemaapp/src/main/java/com/example/cinemaapp/exception/GlobalExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/cinema-service/src/main/java/com/example/cinemaapp/exception/GlobalExceptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinemaapp/src/main/java/com/example/cinemaapp/exception/MovieNotFound.java" beforeDir="false" afterPath="$PROJECT_DIR$/cinema-service/src/main/java/com/example/cinemaapp/exception/MovieNotFound.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinemaapp/src/main/java/com/example/cinemaapp/exception/ServiceException.java" beforeDir="false" afterPath="$PROJECT_DIR$/cinema-service/src/main/java/com/example/cinemaapp/exception/ServiceException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinemaapp/src/main/java/com/example/cinemaapp/mapper/BookingDetailsMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/cinema-service/src/main/java/com/example/cinemaapp/mapper/BookingDetailsMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinemaapp/src/main/java/com/example/cinemaapp/mapper/CustomerMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/cinema-service/src/main/java/com/example/cinemaapp/mapper/CustomerMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinemaapp/src/main/java/com/example/cinemaapp/mapper/MovieMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/cinema-service/src/main/java/com/example/cinemaapp/mapper/MovieMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinemaapp/src/main/java/com/example/cinemaapp/model/BookingDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/cinema-service/src/main/java/com/example/cinemaapp/model/BookingDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinemaapp/src/main/java/com/example/cinemaapp/model/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/cinema-service/src/main/java/com/example/cinemaapp/model/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinemaapp/src/main/java/com/example/cinemaapp/model/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/cinema-service/src/main/java/com/example/cinemaapp/model/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinemaapp/src/main/java/com/example/cinemaapp/repository/BookingDetailsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/cinema-service/src/main/java/com/example/cinemaapp/repository/BookingDetailsRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinemaapp/src/main/java/com/example/cinemaapp/repository/CustomerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/cinema-service/src/main/java/com/example/cinemaapp/repository/CustomerRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinemaapp/src/main/java/com/example/cinemaapp/repository/MovieRespository.java" beforeDir="false" afterPath="$PROJECT_DIR$/cinema-service/src/main/java/com/example/cinemaapp/repository/MovieRespository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinemaapp/src/main/java/com/example/cinemaapp/service/CinemaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cinema-service/src/main/java/com/example/cinemaapp/service/CinemaService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinemaapp/src/main/java/com/example/cinemaapp/service/serviceimpl/CinemaServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/cinema-service/src/main/java/com/example/cinemaapp/service/serviceimpl/CinemaServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinemaapp/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/cinema-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinemaapp/src/test/java/com/example/cinemaapp/CinemaappApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/cinema-service/src/test/java/com/example/cinemaapp/CinemaappApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandaapp/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/panda-service/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandaapp/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/panda-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandaapp/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/panda-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandaapp/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/panda-service/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandaapp/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/panda-service/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandaapp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/panda-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandaapp/src/main/java/com/example/pandaapp/PandaappApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/panda-service/src/main/java/com/example/pandaapp/PandaappApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandaapp/src/main/java/com/example/pandaapp/constant/ErrorCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/panda-service/src/main/java/com/example/pandaapp/constant/ErrorCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandaapp/src/main/java/com/example/pandaapp/controller/PandaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/panda-service/src/main/java/com/example/pandaapp/controller/PandaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandaapp/src/main/java/com/example/pandaapp/dto/BookingDetailsDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/panda-service/src/main/java/com/example/pandaapp/dto/BookingDetailsDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandaapp/src/main/java/com/example/pandaapp/dto/CategoryDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/panda-service/src/main/java/com/example/pandaapp/dto/CategoryDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandaapp/src/main/java/com/example/pandaapp/dto/CustomerDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/panda-service/src/main/java/com/example/pandaapp/dto/CustomerDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandaapp/src/main/java/com/example/pandaapp/dto/ErrorDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/panda-service/src/main/java/com/example/pandaapp/dto/ErrorDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandaapp/src/main/java/com/example/pandaapp/dto/FoodDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/panda-service/src/main/java/com/example/pandaapp/dto/FoodDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandaapp/src/main/java/com/example/pandaapp/exception/CustomerNotFound.java" beforeDir="false" afterPath="$PROJECT_DIR$/panda-service/src/main/java/com/example/pandaapp/exception/CustomerNotFound.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandaapp/src/main/java/com/example/pandaapp/exception/FoodNotFound.java" beforeDir="false" afterPath="$PROJECT_DIR$/panda-service/src/main/java/com/example/pandaapp/exception/FoodNotFound.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandaapp/src/main/java/com/example/pandaapp/exception/GlobalExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/panda-service/src/main/java/com/example/pandaapp/exception/GlobalExceptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandaapp/src/main/java/com/example/pandaapp/exception/ServiceException.java" beforeDir="false" afterPath="$PROJECT_DIR$/panda-service/src/main/java/com/example/pandaapp/exception/ServiceException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandaapp/src/main/java/com/example/pandaapp/mapper/BookingDetailsMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/panda-service/src/main/java/com/example/pandaapp/mapper/BookingDetailsMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandaapp/src/main/java/com/example/pandaapp/mapper/CategoryMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/panda-service/src/main/java/com/example/pandaapp/mapper/CategoryMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandaapp/src/main/java/com/example/pandaapp/mapper/CustomerMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/panda-service/src/main/java/com/example/pandaapp/mapper/CustomerMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandaapp/src/main/java/com/example/pandaapp/mapper/FoodMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/panda-service/src/main/java/com/example/pandaapp/mapper/FoodMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandaapp/src/main/java/com/example/pandaapp/model/BookingDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/panda-service/src/main/java/com/example/pandaapp/model/BookingDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandaapp/src/main/java/com/example/pandaapp/model/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/panda-service/src/main/java/com/example/pandaapp/model/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandaapp/src/main/java/com/example/pandaapp/model/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/panda-service/src/main/java/com/example/pandaapp/model/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandaapp/src/main/java/com/example/pandaapp/model/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/panda-service/src/main/java/com/example/pandaapp/model/Food.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandaapp/src/main/java/com/example/pandaapp/repository/BookingDetailsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/panda-service/src/main/java/com/example/pandaapp/repository/BookingDetailsRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandaapp/src/main/java/com/example/pandaapp/repository/CategoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/panda-service/src/main/java/com/example/pandaapp/repository/CategoryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandaapp/src/main/java/com/example/pandaapp/repository/CustomerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/panda-service/src/main/java/com/example/pandaapp/repository/CustomerRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandaapp/src/main/java/com/example/pandaapp/repository/FoodOrderRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/panda-service/src/main/java/com/example/pandaapp/repository/FoodOrderRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandaapp/src/main/java/com/example/pandaapp/service/PandaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/panda-service/src/main/java/com/example/pandaapp/service/PandaService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandaapp/src/main/java/com/example/pandaapp/service/serviceimpl/PandaServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/panda-service/src/main/java/com/example/pandaapp/service/serviceimpl/PandaServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandaapp/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/panda-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandaapp/src/test/java/com/example/pandaapp/PandaappApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/panda-service/src/test/java/com/example/pandaapp/PandaappApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userapp/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userapp/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userapp/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userapp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userapp/src/main/java/com/example/userapp/UserappApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/java/com/example/userapp/UserappApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userapp/src/main/java/com/example/userapp/controller/MovieController.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/java/com/example/userapp/controller/MovieController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userapp/src/main/java/com/example/userapp/controller/PandaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/java/com/example/userapp/controller/PandaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userapp/src/main/java/com/example/userapp/modal/Foods.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/java/com/example/userapp/modal/Foods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userapp/src/main/java/com/example/userapp/modal/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/java/com/example/userapp/modal/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userapp/src/main/java/com/example/userapp/modal/MovieCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/java/com/example/userapp/modal/MovieCustomer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userapp/src/main/java/com/example/userapp/modal/PandaCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/java/com/example/userapp/modal/PandaCustomer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userapp/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userapp/src/test/java/com/example/userapp/UserappApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/test/java/com/example/userapp/UserappApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2CkPaHC5IyPn0IgS6raj9kYZ3rj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/mialvi/Downloads/SpringBootMicroServices"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.CinemaappApplication">
+    <configuration name="CenterappApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.centerapp.CenterappApplication" />
+      <module name="centerapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.centerapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CinemaappApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.cinemaapp.CinemaappApplication" />
+      <module name="cinemaapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.cinemaapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PandaappApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.pandaapp.PandaappApplication" />
+      <module name="pandaapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.pandaapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CinemaappApplication" />
+        <item itemvalue="Application.CenterappApplication" />
+        <item itemvalue="Application.PandaappApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f98e778f-6327-4de7-a32b-d1e9124d56db" name="Changes" comment="" />
+      <created>1659343672362</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659343672362</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
